@@ -335,10 +335,10 @@ footer {
     background-size: 2rem;
 }
 .phone::before {
-    background-image: url(../img/phone.png);
+    background-image: url(img/phone.png);
 }
 .mail::before {
-    background-image: url(../img/mail.png);
+    background-image: url(img/mail.png);
 
 }
 
